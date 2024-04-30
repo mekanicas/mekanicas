@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate JavaScript and Front-End (and a beginner designer) developer from Argentina</h3>
+<h3 align="center">A passionate JavaScript and Front-End developer from Argentina</h3>
 
 - 🌐 I’m currently working on my **JS Portfolio**
 
