@@ -42,7 +42,7 @@
   <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org/en" target="_blank"> 
-    <img src="https://midu.dev/images/tags/node.png" alt="git" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
