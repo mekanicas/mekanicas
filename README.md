@@ -3,7 +3,7 @@
 
 - 🌐 I’m currently working on my **JS Portfolio**
 
-- 🌱 I’m currently learning **React JS in CoderHouse bootcamp**
+- 🌱 I’m currently learning **Backend MERN stack in CoderHouse bootcamp**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -42,7 +42,10 @@
   <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org/en" target="_blank"> 
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="git" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="40" height="40"/> 
+  </a>
+<a href="https://react.dev/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" alt="react" width="40" height="40"/> 
   </a>
 </p>
 
@@ -55,4 +58,4 @@
 
 [BrunoMiceli](https://github.com/mekanicas)
 
-Last Edited on: 29/04/2024
+Last Edited on: 12/09/2024
